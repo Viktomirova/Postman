@@ -343,11 +343,11 @@
 	"variable": [
 		{
 			"key": "User",
-			"value": "Viktomirova"
+			"value": "user_name"
 		},
 		{
 			"key": "Repo",
-			"value": "Postman"
+			"value": "repo_name"
 		}
 	]
 }
